@@ -3,7 +3,7 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 59
+- ✅ Total Problems Solved: 60
 - 🧠 Languages: Java
 - 💡 Topics: Strings, Arrays
 
