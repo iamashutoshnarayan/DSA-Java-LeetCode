@@ -3,11 +3,12 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 60
+- ✅ Total Problems Solved: 61
 - 🧠 Languages: Java
-- 💡 Topics: Strings, Arrays
+- 💡 Topics: Strings, Arrays, Sliding Window, Two Pointers,Stacks, Linked List, Trees
 
 ## 📅 Daily Streak
+- August 1, 2025: LC 118 - Pascal's Triangle [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_118_PascalTriangle.java]
 - July 31, 2025: LC 898 - Bitwise ORs of Subarrays [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_898_BitwiseORsOfSubarrays]
 - July 30, 2025: LC 2419 - Longest Subarray With Maximum Bitwise AND [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_2419_LongestSubarrayWithMaximumBitwiseAND.java]
 - July 29, 2025: LC 2411 - Smallest Subarrays With Maximum Bitwise OR [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_2411_SmallestSubarraysWithMaximumBitwiseOR.java]
