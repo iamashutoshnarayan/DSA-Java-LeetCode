@@ -3,11 +3,12 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 62
+- ✅ Total Problems Solved: 63
 - 🧠 Languages: Java
-- 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers,Stacks, Linked List, Trees
+- 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers, Hash Table, Stacks, Linked List, Trees
 
 ## 📅 Daily Streak
+- August 2, 2025: LC 2561 - Rearranging Fruits [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Hash%20Table/LC_2561_RearrangingFruits.java]
 - August 1, 2025: LC 69 - Sqrt(x) [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Searching/Binary%20Search/LC_69_Sqrt(x).java]
 - August 1, 2025: LC 118 - Pascal's Triangle [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_118_PascalTriangle.java]
 - July 31, 2025: LC 898 - Bitwise ORs of Subarrays [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Daily/LC_898_BitwiseORsOfSubarrays]
