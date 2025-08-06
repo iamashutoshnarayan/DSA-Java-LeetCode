@@ -3,11 +3,12 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 66
+- ✅ Total Problems Solved: 67
 - 🧠 Languages: Java
-- 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers, Simulation, Hash Table, Stacks, Linked List, Trees
+- 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers, Simulation, Hash Table, Stacks, Linked List, Trees, Segment Tree
 
 ## 📅 Daily Streak
+- August 6, 2025: LC 3477 - Fruits Into Baskets ||| [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Segment%20Tree/LC_3479_FruitsIntoBaskets3.java]
 - August 5, 2025: LC 3477 - Fruits Into Baskets || [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Simulation/LC_3477_FruitsIntoBaskets2.java]
 - August 4, 2025: LC 904 - Fruit Into Baskets [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Sliding%20Window/LC_904_FruitsIntoBaskets.java]
 - August 3, 2025: LC 2106 - Maximum Fruits Harvested After at Most K Steps [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Sliding%20Window/LC_2106_MaximumFruitsHarvestedAfterAtMostKSteps.java]
