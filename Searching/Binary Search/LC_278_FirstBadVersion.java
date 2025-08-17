@@ -1,7 +1,7 @@
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
-public class Solution extends VersionControl {
+public class LC_278_FirstBadVersion extends VersionControl {
     // Topic : Binary Searcxh, Interactive
     public int firstBadVersion(int n) {
         int start = 1;
