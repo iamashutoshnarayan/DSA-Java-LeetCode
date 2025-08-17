@@ -3,11 +3,12 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 69
+- ✅ Total Problems Solved: 70
 - 🧠 Languages: Java
 - 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers, Simulation, Hash Table, Stacks, Linked List, Trees, Segment Tree
 
 ## 📅 Daily Streak
+- August 17, 2025: LC 367 - Valid Perfect Square [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Searching/Binary%20Search/LC_367_ValidPerfectSquare.java]
 - August 17, 2025: LC 167 - Two Sum || [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Two%20Pointers/LC_167_TwoSum2.java]
 - August 17, 2025: LC 278 - First Bad Version [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Searching/Binary%20Search/Solution.java]
 - August 6, 2025: LC 3477 - Fruits Into Baskets ||| [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Segment%20Tree/LC_3479_FruitsIntoBaskets3.java]
