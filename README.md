@@ -3,11 +3,12 @@
 This repo contains my daily LeetCode solutions in Java.
 
 ## 📊 Stats
-- ✅ Total Problems Solved: 71
+- ✅ Total Problems Solved: 72
 - 🧠 Languages: Java
 - 💡 Topics: Strings,Searching, Arrays, Sliding Window, Two Pointers, Simulation, Hash Table, Stacks, Linked List, Trees, Segment Tree
 
 ## 📅 Daily Streak
+- November 4, 2025: LC 1578 - Minimum Time To Make Rope Colorful [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Dynamic%20Programming/LC_1578_MinimumTimeToMakeRopeColorful.java]
 - September 8, 2025: LC 1317 - Convert Integer to the Sum of No-Zero Integer [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Math/LC_1317_IntToNoZeroInt.java]
 - August 17, 2025: LC 367 - Valid Perfect Square [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Searching/Binary%20Search/LC_367_ValidPerfectSquare.java]
 - August 17, 2025: LC 167 - Two Sum || [https://github.com/iamashutoshnarayan/DSA-Java-LeetCode/blob/main/Two%20Pointers/LC_167_TwoSum2.java]
